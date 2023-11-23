@@ -1,12 +1,16 @@
 import axios, {AxiosInstance} from 'axios';
 import {Product} from '../types';
+import {Platform} from 'react-native';
 
 class Api {
   private instance: AxiosInstance;
 
   constructor() {
     this.instance = axios.create({
-      baseURL: `http://10.0.2.2:3000/`,
+      baseURL:
+        Platform.OS === 'ios'
+          ? 'http://localhost:3000/'
+          : 'http://10.0.2.2:3000/',
     });
   }
 
