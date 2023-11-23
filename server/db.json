@@ -1,0 +1,137 @@
+{
+    "products": [
+        {
+            "model": "Galaxy S21",
+            "brand": "Samsung",
+            "release_year": 2021,
+            "price": 999.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "iPhone 13",
+            "brand": "Apple",
+            "release_year": 2021,
+            "price": 1099.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "OnePlus 9",
+            "brand": "OnePlus",
+            "release_year": 2021,
+            "price": 899.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "Pixel 6",
+            "brand": "Google",
+            "release_year": 2022,
+            "price": 799.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "Xperia 5 III",
+            "brand": "Sony",
+            "release_year": 2021,
+            "price": 1099.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "Redmi Note 10",
+            "brand": "Xiaomi",
+            "release_year": 2021,
+            "price": 249.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "Moto G Power",
+            "brand": "Motorola",
+            "release_year": 2020,
+            "price": 199.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "Galaxy A52",
+            "brand": "Samsung",
+            "release_year": 2021,
+            "price": 399.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "Nokia 8.3",
+            "brand": "Nokia",
+            "release_year": 2020,
+            "price": 599.99,
+            "thumbnail": "https://example.com/nokia8.3.jpg"
+        },
+        {
+            "model": "Galaxy Z Fold 3",
+            "brand": "Samsung",
+            "release_year": 2021,
+            "price": 1799.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "iPhone SE (2022)",
+            "brand": "Apple",
+            "release_year": 2022,
+            "price": 499.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "OnePlus 9 Pro",
+            "brand": "OnePlus",
+            "release_year": 2021,
+            "price": 1099.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "Pixel 6 Pro",
+            "brand": "Google",
+            "release_year": 2022,
+            "price": 999.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "Xperia 1 III",
+            "brand": "Sony",
+            "release_year": 2021,
+            "price": 1299.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "Redmi Note 11",
+            "brand": "Xiaomi",
+            "release_year": 2022,
+            "price": 349.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "Moto Edge 20",
+            "brand": "Motorola",
+            "release_year": 2021,
+            "price": 699.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "Galaxy A72",
+            "brand": "Samsung",
+            "release_year": 2021,
+            "price": 499.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "Nokia X20",
+            "brand": "Nokia",
+            "release_year": 2021,
+            "price": 449.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        },
+        {
+            "model": "ZenFone 8",
+            "brand": "Asus",
+            "release_year": 2021,
+            "price": 699.99,
+            "thumbnail": "https://picsum.photos/64/64"
+        }
+    ]
+}
